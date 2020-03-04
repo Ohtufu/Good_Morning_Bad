@@ -617,5 +617,5 @@ void DC_Motor_PWM( short Vref )   // DC 모터 PWM 신호 발생 함수
 ![시연모음](https://user-images.githubusercontent.com/60215726/75425658-7f08e300-5986-11ea-8a7b-9f17d3dabc0c.PNG)
    
 ### 2) 시연 영상
-[![Video Label](http://img.youtube.com/vi/9ARxqd2wXt4/0.jpg)](https://youtu.be/9ARxqd2wXt4?t=10)    
+[![Video Label](http://img.youtube.com/vi/9ARxqd2wXt4/0.jpg)](https://www.youtube.com/watch?v=bV6yoHhn9GM)    
 (블루투스로 통신하는 핸드폰의 영상이 여기에는 없습니다.    2년전에 만든 작품이며 프로젝트 완성 후에  하드웨어는 학교에서 지원해준 물품이기에  반납을 하게 되어 영상을 수정을 못하게 되었습니다.)
