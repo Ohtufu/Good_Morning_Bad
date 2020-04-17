@@ -612,8 +612,8 @@ void DC_Motor_PWM( short Vref )   // DC 모터 PWM 신호 발생 함수
 
 ```
    
-## 6. 작품 이미지 및 시연 영상
-### 1) 이미지
+## 6. 작품 모형 이미지 및 시연 영상
+### 1) 모형 이미지
 ![시연모음](https://user-images.githubusercontent.com/60215726/75425658-7f08e300-5986-11ea-8a7b-9f17d3dabc0c.PNG)
    
 ### 2) 시연 영상
